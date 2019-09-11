@@ -1,7 +1,3 @@
-# mesto
-
-> Mesto
-
 ## Build Setup
 
 ``` bash
